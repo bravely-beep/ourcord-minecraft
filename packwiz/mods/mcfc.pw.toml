@@ -1,0 +1,13 @@
+name = "Function Compiler"
+filename = "mcfc-0.2.2-alpha.2+1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fCDJbsBM/versions/Ix5MTerF/mcfc-0.2.2-alpha.2%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "6abd5003eca5f51bc3c6bbdfb55d98f99d983bbde3e3b2a7e1ec8cc9a74bc94dbf3d3c0ec0c20ce0dca03a399f0308ac56fcf2db063f8e697c34bac86670d4be"
+
+[update]
+[update.modrinth]
+mod-id = "fCDJbsBM"
+version = "Ix5MTerF"

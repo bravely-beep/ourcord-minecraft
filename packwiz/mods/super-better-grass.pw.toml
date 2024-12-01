@@ -1,0 +1,8 @@
+name = "SuperBetterGrass"
+filename = "SuperBetterGrass-1.5.2+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/dima-dencep/super-better-grass/releases/download/1.5.2%2B1.20.1/SuperBetterGrass-1.5.2+1.20.1.jar"
+hash-format = "sha512"
+hash = "4353429bcaf0b5bbaf70b50fb3365f2a4efca826e7aeb56e7405d0f77da9fa80821f1f2e4ec66328858102f7f40d26ea5a5713e5a92a5a4aa46b05cc71b3626d"

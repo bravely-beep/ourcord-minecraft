@@ -1,0 +1,8 @@
+name = "Repurposed Structures - Disabled Advancement Datapack"
+filename = "Repurposed_Structures-Disabled_Advancements-1-20-X.zip "
+side = "server"
+
+[download]
+url = "https://github.com/TelepathicGrunt/RepurposedStructures/releases/download/3.0.0/Repurposed_Structures-Disabled_Advancements-1-20-X.zip"
+hash-format = "sha512"
+hash = "36d6a2d3aec74343636bb1ba4b016a046f3f7e78a07ada6d53a4ec34f27d388e7213a32f5f4bb726a11000e2afc8227f82f7bb3a6217f4ddc355df85ab516b1c"

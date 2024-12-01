@@ -1,0 +1,13 @@
+name = "Hardcover"
+filename = "hardcover-1.0.1+fabric-mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A41bVvas/versions/XDdCLyIZ/hardcover-1.0.1%2Bfabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "7e1bca331d79c2b8ae2d8858a9673f00f953d61a4801e1b1f2e747f343c7b42a7eb5979bcfe1213ea29cb30ce9be097557d798f8f21f94fec947008f87811e3f"
+
+[update]
+[update.modrinth]
+mod-id = "A41bVvas"
+version = "XDdCLyIZ"

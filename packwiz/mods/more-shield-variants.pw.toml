@@ -1,0 +1,13 @@
+name = "More Shield Variants"
+filename = "MoreShieldVariants-1.3.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CW2WWDUy/versions/oDptIA2z/MoreShieldVariants-1.3.1%2B1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "20ecd1a541613a95b35e96063240d53521a7f620a9ae2385288d97edc81b1064796566c5ef2c927a14711889d5837b56dfae49bf6dc29e5d2c9705e0b71b81b6"
+
+[update]
+[update.modrinth]
+mod-id = "CW2WWDUy"
+version = "oDptIA2z"

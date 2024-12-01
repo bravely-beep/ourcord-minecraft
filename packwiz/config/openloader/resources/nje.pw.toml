@@ -1,0 +1,13 @@
+name = "No Java Edition"
+filename = "No Java Edition (1.20.1-1.20).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TkkR3C88/versions/YuIKf4c0/No%20Java%20Edition%20%281.20.1-1.20%29.zip"
+hash-format = "sha512"
+hash = "b7e3ad57971e688622788d93344121033b8557f246a9e296fa454ed20bdc019424e11710d93c8f5e9995edd1a5ee3e33de7405ea6d259379a7be93881c305811"
+
+[update]
+[update.modrinth]
+mod-id = "TkkR3C88"
+version = "YuIKf4c0"

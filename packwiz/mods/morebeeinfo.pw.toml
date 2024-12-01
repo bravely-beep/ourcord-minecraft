@@ -1,0 +1,13 @@
+name = "MoreBeeInfo"
+filename = "MoreBeeInfo-fabric-1.20-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N2XKPu4u/versions/GayMyKnz/MoreBeeInfo-fabric-1.20-1.2.jar"
+hash-format = "sha512"
+hash = "1117650f0bfa9a178c023be3d8a4f8f040324dc6ca6d9f87f913dfcda290990915f741f32e067665b4a063dca689a0bdb28862fce026f278a615d067c516f655"
+
+[update]
+[update.modrinth]
+mod-id = "N2XKPu4u"
+version = "GayMyKnz"

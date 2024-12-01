@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "greenhouse_glass",
+  "pattern": [
+    "#G#",
+    "G#G",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "G": {
+      "item": "minecraft:purple_stained_glass"
+    }
+  },
+  "result": {
+    "item": "seasonsextras:purple_greenhouse_glass",
+    "count": 4
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "seasonsextras:is_season_messing_crops"
+    }
+  ]
+}

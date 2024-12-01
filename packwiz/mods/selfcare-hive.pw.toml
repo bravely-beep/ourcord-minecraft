@@ -1,0 +1,13 @@
+name = "Self-Care Hive"
+filename = "selfcare-hive-1.0.2+1.19.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5PtS1lI/versions/w96B6S3N/selfcare-hive-1.0.2%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "b0ed95e05894668a55038d4637dc46a56731ecc56d12a83ca32205492a40477faf1c3d1423bb58d21c39509252677e6e85e0e03f131ae11350a3b1dc9c8a5665"
+
+[update]
+[update.modrinth]
+mod-id = "K5PtS1lI"
+version = "w96B6S3N"
