@@ -1,0 +1,13 @@
+name = "Vanilla Sky Villages"
+filename = "vanillaskyvillages-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iJXHrRTs/versions/r2LJy1cR/vanillaskyvillages-1.0.3.jar"
+hash-format = "sha512"
+hash = "5406bf84efcd837d008284100c857f30bd8338182bef326b9d2a244b9209e78e611f9b9f8642f9efa1dade5c3ebb3e1b521458cef1c78c752d422f0e84b020db"
+
+[update]
+[update.modrinth]
+mod-id = "iJXHrRTs"
+version = "r2LJy1cR"

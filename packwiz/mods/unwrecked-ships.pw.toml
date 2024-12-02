@@ -1,0 +1,13 @@
+name = "Unwrecked Ships"
+filename = "Unwrecked Ships Plus 2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ae8EZLiC/versions/HQOLibLy/Unwrecked%20Ships%20Plus%202.0.4.jar"
+hash-format = "sha512"
+hash = "438bf2727a4bcd9e3a37f7ea3de57603a6efd1cee7aae1eeab4bd2418f6d8b704bdd7ee56f3cfd649e11ad4372d3e8dfe8fa6e3a585008bba386b299b3db3c99"
+
+[update]
+[update.modrinth]
+mod-id = "ae8EZLiC"
+version = "HQOLibLy"

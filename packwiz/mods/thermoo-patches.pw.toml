@@ -1,0 +1,13 @@
+name = "Thermoo Patches"
+filename = "thermoo-patches-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYRF9nUy/versions/2AjO0Vy9/thermoo-patches-1.0.3.jar"
+hash-format = "sha512"
+hash = "9798a123b7879cdf345571cb38846e6a87be61d901ce9a985c64aad016edc6286b067937b556c777e439e50039a7e43bc94ca83f6fc9bd261d008949f4a462bb"
+
+[update]
+[update.modrinth]
+mod-id = "TYRF9nUy"
+version = "2AjO0Vy9"

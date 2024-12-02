@@ -1,0 +1,13 @@
+name = "Pet Essence"
+filename = "petessence-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gte2ak4x/versions/Usgiy3JK/petessence-1.1.2.jar"
+hash-format = "sha512"
+hash = "a58a1a20ab723067115d3d392131addef0497a16fe90e4ccc69702fb90ec1e2eaa1b1e8fa08af821fbbf5670150598fb5263cece248331359aa8fd28ee53da37"
+
+[update]
+[update.modrinth]
+mod-id = "gte2ak4x"
+version = "Usgiy3JK"

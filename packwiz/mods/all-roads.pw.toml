@@ -1,0 +1,13 @@
+name = "All Roads"
+filename = "AllRoads-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MADm77JO/versions/nhJ5uuAY/AllRoads-0.1.0.jar"
+hash-format = "sha512"
+hash = "2a54fb49f28bcfd80f9a2fa889ab143a8ca9338530bcfee4a5b47be69225129404d2ec90edf8353a5476a3cd3cbff117e327f6d88e3fd0ff5409c9bd1fbe4d85"
+
+[update]
+[update.modrinth]
+mod-id = "MADm77JO"
+version = "nhJ5uuAY"

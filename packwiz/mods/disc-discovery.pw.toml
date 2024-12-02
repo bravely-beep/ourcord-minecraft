@@ -1,0 +1,13 @@
+name = "Disc Discovery"
+filename = "disc-discovery-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVlqtHxD/versions/mKtIzF7R/disc-discovery-1.0.jar"
+hash-format = "sha512"
+hash = "d80b9f845372002307b8cbe128de866226a0384159cc3bbc830c4fe6887d2273428374cda7e1916518fba060ea43251b0fdd683f435e82c902c94a1b96439ff7"
+
+[update]
+[update.modrinth]
+mod-id = "OVlqtHxD"
+version = "mKtIzF7R"

@@ -1,0 +1,13 @@
+name = "Chunk In A Globe"
+filename = "Chunk-In-A-Globe-fabric-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgVNwOQ0/versions/TfLFBx3C/Chunk-In-A-Globe-fabric-1.20.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "d21bc684b2e04720019198c32d76cfc82525469f2b4df9b19204a822c5fd70a0813b80d0c3c2ce5731bd9ac3c87f8381e16384b6b040f47b7f637456788eac73"
+
+[update]
+[update.modrinth]
+mod-id = "fgVNwOQ0"
+version = "TfLFBx3C"
