@@ -544,11 +544,6 @@ hash = "d6c10a41620fa751e4c8aeee37b69adcbb107c72ebbd4e63d6966ae19d6c3ee0"
 metafile = true
 
 [[files]]
-file = "mods/all-roads.pw.toml"
-hash = "2c8a3000d3382a2c775db32d8b71c884ea93a987a092edb268e648d0503f9e9f"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
@@ -1401,11 +1396,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
-metafile = true
-
-[[files]]
-file = "mods/world-preview.pw.toml"
-hash = "0a1f6cec32cf47bec555f1cdf3d6f1bf895543113eae817955610d20a25dfb6c"
 metafile = true
 
 [[files]]
