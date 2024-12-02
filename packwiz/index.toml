@@ -559,6 +559,11 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
@@ -636,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
 metafile = true
 
 [[files]]
@@ -1011,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "e3f2f2997bc301b9b8ce81f529a293dbef9f3256380ca0e8c4b083fae6ca3b24"
 metafile = true
 
 [[files]]
