@@ -65,6 +65,10 @@ file = "config/openloader/data/ourcord/data/basicweapons/recipes/wooden_dagger.j
 hash = "0f372c5197e0cf65593e4951238538f6fcb84141df37c4ad21178dd153e734e1"
 
 [[files]]
+file = "config/openloader/data/ourcord/data/frostiful/advancements/recipes/misc/snowflake_banner_pattern.json"
+hash = "9a377c296729a9180db3843c13328b112b4daddebcc026c093f702268b9d5ec4"
+
+[[files]]
 file = "config/openloader/data/ourcord/data/lomsv/recipes/acacia_shield.json"
 hash = "6cb760677f2fc64f7e7c521ba899540fd13da47deeafc81b6f4fcc3ded2e9174"
 
