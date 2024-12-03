@@ -1,0 +1,13 @@
+name = "Mod Credits Reborn"
+filename = "modcredits-fabric-0.1.4+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IGLFQSV1/versions/LDUgpT9U/modcredits-fabric-0.1.4%2B1.19.jar"
+hash-format = "sha512"
+hash = "e6fac3d649a4875b7b16313084c58f3caa12f71eba439a3b9152dffb12fb00a4319df6f176254c6a985e8c63f978c7b565cd6d6ca9d45bda874c489d7efbe5b9"
+
+[update]
+[update.modrinth]
+mod-id = "IGLFQSV1"
+version = "LDUgpT9U"

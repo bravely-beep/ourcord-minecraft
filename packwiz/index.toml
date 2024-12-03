@@ -1068,6 +1068,11 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
+file = "mods/mod-credits-reborn.pw.toml"
+hash = "c8d7003ab094a9dbd9e50a4128cb9066d19527e693f69f5336c245a99657670a"
+metafile = true
+
+[[files]]
 file = "mods/mod-settings.pw.toml"
 hash = "55d64322820e518a7f68899f0b4e4a44c8a4c2c15b62c9871a148edc2d536eeb"
 metafile = true
