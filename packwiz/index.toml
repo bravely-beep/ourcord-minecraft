@@ -5,472 +5,472 @@ file = "config/isxander-main-menu-credits.json"
 hash = "c653e2c26023e664559a62aaac39426c867c1d335ad0fcec75a8e7d74246b4f8"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/compat/diamond_dagger_farmersdelight.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/compat/diamond_dagger_farmersdelight.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/compat/golden_dagger_farmersdelight.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/compat/golden_dagger_farmersdelight.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/compat/iron_dagger_farmersdelight.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/compat/iron_dagger_farmersdelight.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/compat/stone_dagger_farmersdelight.json_dagger_farmersdelight.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/compat/stone_dagger_farmersdelight.json_dagger_farmersdelight.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/compat/wooden_dagger_farmersdelight.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/compat/wooden_dagger_farmersdelight.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/diamond_club_variant.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/diamond_club_variant.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/diamond_dagger.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/diamond_dagger.json"
 hash = "8ea951c77560303f85f946efa179f6fa8fe093debf2c9fa49f9a167b245ade04"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/golden_club_variant.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/golden_club_variant.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/golden_dagger.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/golden_dagger.json"
 hash = "72da89d2c38c3090490df9650bdeec782124f079e525f2f4cd8ae72c6cf304e4"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/iron_club_variant.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/iron_club_variant.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/iron_dagger.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/iron_dagger.json"
 hash = "fa13fb4b11996614c3362735914f9527b9af88e390bdc71c978be166f7dc73ec"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/stone_club_variant.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/stone_club_variant.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/stone_dagger.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/stone_dagger.json"
 hash = "a05efe2a287855b35dc3cc84d062dd391d4f0926e41f6c7785a1e1b2ca60f4a0"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/wooden_club_variant.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/wooden_club_variant.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/basicweapons/recipes/wooden_dagger.json"
+file = "config/openloader/data/ourcraft/data/basicweapons/recipes/wooden_dagger.json"
 hash = "0f372c5197e0cf65593e4951238538f6fcb84141df37c4ad21178dd153e734e1"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/frostiful/advancements/recipes/misc/snowflake_banner_pattern.json"
+file = "config/openloader/data/ourcraft/data/frostiful/advancements/recipes/misc/snowflake_banner_pattern.json"
 hash = "9a377c296729a9180db3843c13328b112b4daddebcc026c093f702268b9d5ec4"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/acacia_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/acacia_shield.json"
 hash = "6cb760677f2fc64f7e7c521ba899540fd13da47deeafc81b6f4fcc3ded2e9174"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/acacia_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/acacia_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/bamboo_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/bamboo_shield.json"
 hash = "cdf329e0b3cb99b7c494548cc49291e1b3a6c14d0e69dd46689c0a2a17c229c3"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/bamboo_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/bamboo_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/birch_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/birch_shield.json"
 hash = "25856c836c18c9955188e0ff830466ba37eca1ca9651f98a8cbce91c4c9f506a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/birch_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/birch_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/cherry_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/cherry_shield.json"
 hash = "99250b7bc5b65dceb9992c5cd4a151c7f84469f83fe2d15645e3aaf20b9286fe"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/cherry_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/cherry_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/crimson_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/crimson_shield.json"
 hash = "6a0d53d2cd8b9d1e1db3728d932afd473e005962d7e39eb9b98ba1f861069582"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/crimson_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/crimson_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/dark_oak_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/dark_oak_shield.json"
 hash = "ed403a38171e808024c3ae29b594c6f279c09aa3761c6766ded4c9b617bdaab7"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/dark_oak_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/dark_oak_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/jungle_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/jungle_shield.json"
 hash = "4cc05547ad9a7e59cb936c07126ca13b8094064799fca1081ca88317266d2220"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/jungle_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/jungle_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/mangrove_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/mangrove_shield.json"
 hash = "12da43b3c36833eea3a308b2568b6e76fa4b35bf1a9d3232d7e878b0aa87be44"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/mangrove_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/mangrove_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/oak_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/oak_shield.json"
 hash = "b79540135ba43671ce9531165ae2492e43c9c2260c2f1b83c23f526fd3d11e3a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/oak_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/oak_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/warped_shield.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/warped_shield.json"
 hash = "e597d847238b8c4b98b8e7a484fc403bde8837f13b61079a1394f1d6d7678d6e"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/lomsv/recipes/warped_shield_full.json"
+file = "config/openloader/data/ourcraft/data/lomsv/recipes/warped_shield_full.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/minecraft/recipes/combat/shield.json"
+file = "config/openloader/data/ourcraft/data/minecraft/recipes/combat/shield.json"
 hash = "0e14fcaeb71b76d2f0b693964e556b3bf14d4728a199c149798ea98a9ca4c369"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_club.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_club.json"
 hash = "f9b4cd5c38d32b54d02c519e96150a8b783316e1e5335d6559a1d79e4b31a3b1"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_dagger.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_dagger.json"
 hash = "293e23e94a850c9ae1ce7a6e9fa3326c9bd3a0921bc1e6687d027b03cd2adefb"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_glaive.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_glaive.json"
 hash = "b18e6f0b5d497c36d5085a1605cb0da1483c9634e614e2e509ec4449be169626"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_hammer.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_hammer.json"
 hash = "cfbf073d30793a8d38095c317e78c937329e62e8c747bc4701ec7a87d23702c9"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_quarterstaff.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_quarterstaff.json"
 hash = "fa4fdbb81662cd138f5e83e5c898f990dbedb9fbecba59c205816e97f055b6c7"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/diamond_spear.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/diamond_spear.json"
 hash = "e66ba75cf94bfa75588d0fcb54c8a2a48332046aae09bed21c78ca086794cb35"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_club.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_club.json"
 hash = "60b0fa995a114db0c7220e5b40270de379e72809022a59e018cf9d33052ac0c8"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_dagger.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_dagger.json"
 hash = "b2df6b11d2b8a53012cdc242374f8930216b6746969aa193bf0e542532f8501d"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_glaive.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_glaive.json"
 hash = "e68084017c4447e750a3d912a41f9493ee5c93fa313a24c63753309eb3c29650"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_hammer.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_hammer.json"
 hash = "6ab968167feb17fd65df8f6192a238946b21dd78f36265d3cc7074b2a749b60c"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_quarterstaff.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_quarterstaff.json"
 hash = "6de133980a3df3c592e55c497ddde1d4c0f1606a8564119cb0e36090f380aeb2"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/golden_spear.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/golden_spear.json"
 hash = "6a4baf475cdd165eadcb2723dbb6aed3a59f704b7447aceb9a9ac1aad43369cb"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_club.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_club.json"
 hash = "374d97e9373ef9675da8a2eac5098decd21dc6a949a0116b26758a364eaca679"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_dagger.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_dagger.json"
 hash = "9b3f481e4de5b03fb177b1de9d43966bd30fc8da8f745ea6eb0223b9733efd82"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_glaive.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_glaive.json"
 hash = "f4b9229bc084a9ff3cfb952c35b40798c76600bd0b9077bd05b08295e1aa7455"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_hammer.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_hammer.json"
 hash = "6f490a52e369f81308ed6c39d799ec82fb7f3605af13b2bf5831161e3309c0d8"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_quarterstaff.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_quarterstaff.json"
 hash = "ada7354ea12f958f5e7daf614fdc9e46563bb7d706126651ce84d3973ca942e7"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/iron_spear.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/iron_spear.json"
 hash = "02e3ef51f60744562478931656b5913841ad27700afd375c599353a050ef8e3b"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/netherite_club_smithing.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/netherite_club_smithing.json"
 hash = "a04775562fff55db5ffea6d781431f667b5630951d3ecee2675716a1080d734d"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/netherite_dagger_smithing.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/netherite_dagger_smithing.json"
 hash = "96b20af36ce82f9c2b7643a1b4cb15e0c64deecde8e111623f27664785b22e61"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/netherite_glaive_smithing.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/netherite_glaive_smithing.json"
 hash = "54cde043fefe052710f6552998172b6f9343064e38eb74d0f43f73dcdedd4c84"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_club.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_club.json"
 hash = "f7e95af6b5765fdad0683a0e1430f3732b1d2b6685aa286eed5e8df0cb455ee8"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_dagger.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_dagger.json"
 hash = "e98be695f006ab00f33b9f527b1a7a5b09978d61b847d48b470c7184b5f4ea51"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_glaive.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_glaive.json"
 hash = "17f1618b0f7238510c2d6086242b61ad631fdcea9a6a36a6b7f59f44b8927fc6"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_hammer.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_hammer.json"
 hash = "c2f183591e787ca8622a995810edaad18e1b4171fade4cad69f6b3bcfaa16c77"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_quarterstaff.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_quarterstaff.json"
 hash = "151dc99015313b450772d92cf5c95731a15e9606b4474a47bfc3c48df1152599"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/stone_spear.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/stone_spear.json"
 hash = "1feacc5790aaa56b84eb7e8a852104b8932f24e00f7113089008250acd54f4d1"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_club.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_club.json"
 hash = "cfd2ebcb562f235de834599c4062142782e748574c641e854012f1534b85336f"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_dagger.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_dagger.json"
 hash = "5713358ed19bcd0e3659f2103db9b72981242ac87052a60b404cdbfaba32670e"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_glaive.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_glaive.json"
 hash = "78fd493d2de320def0431ee5e329ded4f059c390f5501e1a3f30b3f0b928a3e1"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_hammer.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_hammer.json"
 hash = "1eed8afc5c884cfe60e070f230750760c1083a832081d3e027ba1c93e300894f"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_quarterstaff.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_quarterstaff.json"
 hash = "2862b131ce2deeafb4bde2395d8c69a91023733f2806e7791f94ecce1d8f93a9"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/basicweapons/wooden_spear.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/basicweapons/wooden_spear.json"
 hash = "bfaa247fc602ccd1121a5e002c90b2a054e87b0d638ee551b53188b0fd21bf73"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/chiller.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/chiller.json"
 hash = "5f30d1af4bc0def678b486663814a8b88863d5711a68623ebecf2d52c85d987c"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/crop_season_tester.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/crop_season_tester.json"
 hash = "3dc4eb65e247f428770827f344ba596aec272a8cbd96d32992b1b064c5f399b7"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/black_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/black_greenhouse_glass.json"
 hash = "ee474c47eca3051b86f0bdb6db6a712b5d79fd5971e2f042097964ba6083b41e"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/blue_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/blue_greenhouse_glass.json"
 hash = "94fc0af6c5f20dfd443de3160b05dd2286deda5d3666f74dfc6ea4c7b2d24c5d"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/brown_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/brown_greenhouse_glass.json"
 hash = "3e259b48b3a8465ef38bad366d9a5bcb90aa3e782dcb4f3aa1c8d6e9a1fea42c"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/cyan_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/cyan_greenhouse_glass.json"
 hash = "a8a242c1a3b5b0548db37191f6e9be389854b32555c35d18791ac2c0749a4d4d"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/gray_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/gray_greenhouse_glass.json"
 hash = "a981cf90697e99194d4a1b2eb757f677d8f494552d64f8749d7cbc4a1d909dfe"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/green_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/green_greenhouse_glass.json"
 hash = "557ead4a550dbb5e12706db56728e125e6a6759eae482dcf838f85a9668f3c14"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/light_blue_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/light_blue_greenhouse_glass.json"
 hash = "0b9fb5223fdd318821fb09ca03e20a1211022d427838edd7afbdd98b096ba4e0"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/light_gray_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/light_gray_greenhouse_glass.json"
 hash = "40ff88ebc5b81fbea180eba40f12e33c06c70c0378c6fa8b64d90c1b996bad78"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/lime_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/lime_greenhouse_glass.json"
 hash = "e6d5375e8b5c87445311e99329d1ea6472e6db55f5b5b0c829c52b4eba71fb11"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/magenta_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/magenta_greenhouse_glass.json"
 hash = "8e3d0d2c0922129e91f505731c33c3581500e4dd191e65d509974b3c6a1b7635"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/orange_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/orange_greenhouse_glass.json"
 hash = "023d95cb77023abf6abf173fce719b9d34d59b2789f2743f6c50c7a4393dc7cf"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/pink_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/pink_greenhouse_glass.json"
 hash = "5bacaea18c70926436f5de90ead6cb2274a0a1af94ec53082f047ac462635a28"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/purple_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/purple_greenhouse_glass.json"
 hash = "4b8a85254f33acbd4db0b0559a205920184c569e82afaf885434164b240579aa"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/red_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/red_greenhouse_glass.json"
 hash = "5d866c424b7a20150ec650665d09949b9ba02ace81c7003783181115c04b6b58"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/white_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/white_greenhouse_glass.json"
 hash = "3600262363f3a32522b38ac769ec663bb416076b43b990582f13014a5f0afb79"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/yellow_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/greenhouse_glass/yellow_greenhouse_glass.json"
 hash = "78ca0617d53c35c651954c1cb250ed01d830a4bf8f509e54ef93045151d7aa44"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/heater.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/heater.json"
 hash = "c374531d204313d8065dfeec2af82156fb0a79229d6350e367eb3236d6f18170"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/season_calendar.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/season_calendar.json"
 hash = "896dfe66fc2fd64bae5f93b1008da99ec474813d1f5173a778df647cbe645479"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/season_detector.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/season_detector.json"
 hash = "3ba2659e9f5ef544c67a7d3cc75a808042a16fef2a7a1fac4c5c9c9a7ca1b743"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/ourcord/advancements/recipes/seasonsextras/tinted_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/ourcord/advancements/recipes/seasonsextras/tinted_greenhouse_glass.json"
 hash = "f5400e3a9ab1027b63a21a953deb26941402c3114f9bd3b9fba2ad100f5f7145"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/air_conditioning.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/air_conditioning.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/crop_season_tester.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/crop_season_tester.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/greenhouse_glass.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/season_calendar.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/season_calendar.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/season_detector.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/season_detector.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/seasonal_compendium.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/seasonal_compendium.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/advancements/recipes/tinted_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/advancements/recipes/tinted_greenhouse_glass.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/black_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/black_greenhouse_glass.json"
 hash = "f91be72659c04fab1f8b342136ea30bb09dcf1ca63e9d2238cc491a070e0baab"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/blue_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/blue_greenhouse_glass.json"
 hash = "285a0e06bd55a26bc55470a453bf4e9f579c6ae1dec5f4429269b4666a2f73b6"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/brown_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/brown_greenhouse_glass.json"
 hash = "675757cf493844251298a209f509cc1c411a43601689cf77ca2b20159e7bc741"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/cyan_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/cyan_greenhouse_glass.json"
 hash = "3d137c6c9238376243f72d0451576e5c6697c5abebe966e0c07a2310c02580bd"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/gray_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/gray_greenhouse_glass.json"
 hash = "6bfe7781d0b84fd34a47b7324b53c2d050e748aabf2df2e4b03b6460111e4600"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/green_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/green_greenhouse_glass.json"
 hash = "39ecef3457b10ab841acd8c628c8d0799a38b0e4f2324653424430df93de5dfe"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/light_blue_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/light_blue_greenhouse_glass.json"
 hash = "986d2dfc99fa5dfd5ed04abedf7d400fa902f3bb5366fc60d85dac402c352f30"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/light_gray_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/light_gray_greenhouse_glass.json"
 hash = "923554151e63baa6149801a10b6f2e1f3ca15483033ee0503ba1d11a6bd52bbf"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/lime_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/lime_greenhouse_glass.json"
 hash = "6f2027dc39a0d384ae19178d1730389aad4e0dcb323a21e6790ed1a6f21b4d02"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/magenta_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/magenta_greenhouse_glass.json"
 hash = "c3be683f7d8b159880462c37f56633c4e70e915e88357277bfd7c7c7cb0afe4b"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/orange_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/orange_greenhouse_glass.json"
 hash = "2fb044f9feb0583e41ecdab45340f691ffa2713786e410baa6e388a79ac8cd67"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/pink_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/pink_greenhouse_glass.json"
 hash = "53f389ffa566ff1dbdbd734faf1f7482c07bfff5729143b95af9fcce20abb49e"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/purple_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/purple_greenhouse_glass.json"
 hash = "6540054902a7f53a83dd22d5e520bbe39e1e68c6518ca896371d9b09691a06de"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/red_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/red_greenhouse_glass.json"
 hash = "8885583fdca02fd1ae4fd1fa132df698f0bd5d07a5aa8a9815b69c7c2b7e2b36"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/white_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/white_greenhouse_glass.json"
 hash = "5921d431ad6f37c2cb5efbffd33780ec7dabd15d791d1a183f5db1ed9f828135"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/seasonsextras/recipes/yellow_greenhouse_glass.json"
+file = "config/openloader/data/ourcraft/data/seasonsextras/recipes/yellow_greenhouse_glass.json"
 hash = "d2100209b114a27b2a23c2bae38eb65f9f22305753698fba2f0fb9c7bce755ac"
 
 [[files]]
-file = "config/openloader/data/ourcord/data/yungsbridges/worldgen/configured_feature/bridge_list.json"
+file = "config/openloader/data/ourcraft/data/yungsbridges/worldgen/configured_feature/bridge_list.json"
 hash = "f774e187eff70810c4f37d1dca7c4137067cba9ee6f0fc4729e33975e0bc8f77"
 
 [[files]]
-file = "config/openloader/data/ourcord/pack.mcmeta"
-hash = "99310d0558efe10c0704a6a2147d8586c81f05cadf120d169db157a31b055157"
+file = "config/openloader/data/ourcraft/pack.mcmeta"
+hash = "65c59c6f4710afa88c19686404c5b29d796c99b5833e7e26bae6d84bbfb0bb7d"
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-compat.pw.toml"
@@ -526,6 +526,10 @@ metafile = true
 file = "config/openloader/resources/nje.pw.toml"
 hash = "baba96c5d504be7c72768e9eb2f0db9c9c8e9c4877650efaf68541d9ffffc41b"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/ourcraft/pack.mcmeta"
+hash = "fe9fea5e08f95f54299630998db9b828ce60ed794cb6a6fafa05ab92da44c0ec"
 
 [[files]]
 file = "config/openloader/resources/sparkles-addon-alpha-islands.pw.toml"
@@ -1073,11 +1077,6 @@ hash = "c8d7003ab094a9dbd9e50a4128cb9066d19527e693f69f5336c245a99657670a"
 metafile = true
 
 [[files]]
-file = "mods/mod-settings.pw.toml"
-hash = "55d64322820e518a7f68899f0b4e4a44c8a4c2c15b62c9871a148edc2d536eeb"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -1274,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "2432ef603a70e5cccd69245d7734ecf981fd4847975f2b7748b07f90f1d089d7"
+hash = "e0b6df25ef3de705161bd7b33b2d94ecc45ac8a8d096ba0cdb2baaf22494f999"
 metafile = true
 
 [[files]]
