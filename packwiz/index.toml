@@ -583,11 +583,6 @@ hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.pw.toml"
-hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
-metafile = true
-
-[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "928df7b692560767e2952dad3bbc03c11ccec4f44bc5e12db32854a5b7369307"
 metafile = true
@@ -810,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "e8693aa596cf75bfa79060a08c8f99a9b387e781ac8b2ac58942cec9725ed219"
 metafile = true
 
 [[files]]
@@ -1270,6 +1270,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "2432ef603a70e5cccd69245d7734ecf981fd4847975f2b7748b07f90f1d089d7"
 metafile = true
 
 [[files]]
