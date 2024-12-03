@@ -1,4 +1,4 @@
-name = "Ourcord"
+name = "Ourcraft"
 author = "bravely_beep"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6b5c2e68176baa91f5ad72a4bbb23336194ed8ee9702e37f13af92193905d0ed"
+hash = "647fb33b2c333b6e460b08f9c2fe28e3a2bb974f8c5d090a78a8713adab812c4"
 
 [versions]
 fabric = "0.16.9"
