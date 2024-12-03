@@ -1,0 +1,29 @@
+{
+    "type": "grass",
+    "variants": {
+        "moitsure=0": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=1": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=2": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=3": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=4": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=5": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=6": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland"
+        },
+        "moitsure=7": {
+            "data": "immersive_weathering:bettergrass/data/loamy_farmland_moist"
+        }
+    }
+}

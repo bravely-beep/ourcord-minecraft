@@ -1,0 +1,11 @@
+{
+    "type": "grass",
+    "variants": {
+        "snowy=false": {
+            "data": "immersive_weathering:bettergrass/data/grassy_sandy_dirt"
+        },
+        "snowy=true": {
+            "data": "immersive_weathering:bettergrass/data/grassy_sandy_dirt_snow"
+        }
+    }
+}

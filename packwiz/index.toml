@@ -528,6 +528,62 @@ hash = "baba96c5d504be7c72768e9eb2f0db9c9c8e9c4877650efaf68541d9ffffc41b"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/grassy_sandy_dirt.json"
+hash = "c158ca2a40392bb8d536e4c40df90c198addb1ad92831a320ea26872fba75ecc"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/grassy_sandy_dirt_snow.json"
+hash = "29bf98ba3d9aa4c767a63a70e260f69f96eb35e5e8abb008bb79d47aaf480145"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/grassy_silt.json"
+hash = "d229b9404fbce64c465e897655c33af607369865ce84da7ad05ac5f16a095c8c"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/grassy_silt_snow.json"
+hash = "86b674ccfccfc5954851a1da75b701eb482305ce204e7a5dd9ce993f86437418"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/loam.json"
+hash = "a67280b794988a30ba79563decdf9d61a3a52fd2144ef6583c7b904a14e1beb1"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/loamy_farmland.json"
+hash = "29c12cf3f8b5afe11d999d60ccd1afbf0c4db693cfdb61925cd690a2888a15a8"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/loamy_farmland_moist.json"
+hash = "51ef7d61c4f4414150fce0b7b2090d8c49e5914d60bc1574802a97ff3e83b2e6"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/rooted_grass_block.json"
+hash = "90eb2a3ff1d734ad7df63c387ef5421e4582e2cf2197fe7012d48bb38e4281dc"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/data/rooted_grass_block_snow.json"
+hash = "1d29d154908b675a1c57e093e3b2fcd03daf76b9fac0c216f8e346da9a4ed680"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/states/grassy_sandy_dirt.json"
+hash = "e0c8d68784660bc15b9bb18431e0de0f741ef705ded2dfae1cccd434a642e167"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/states/grassy_silt.json"
+hash = "5faf6b7aea67171c65ecac6265385569716b0516b904ed4c2f132a75f2085efa"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/states/loam.json"
+hash = "42c47b10f2bad44b1057b65acf477054a11548a0ab3cd75f913ad05afbf43db7"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/states/loamy_farmland.json"
+hash = "676d624be4723a49c67b6b5f8b00c9de969f4c398278b0b381f9ddc9601868dc"
+
+[[files]]
+file = "config/openloader/resources/ourcraft/assets/immersive_weathering/bettergrass/states/rooted_grass_block.json"
+hash = "30ef47e2f6d217df007a2d3d04f070b91a5820cfcf3adb9c768d98d7c0dcb6fd"
+
+[[files]]
 file = "config/openloader/resources/ourcraft/pack.mcmeta"
 hash = "fe9fea5e08f95f54299630998db9b828ce60ed794cb6a6fafa05ab92da44c0ec"
 
@@ -814,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/easyauth.pw.toml"
 hash = "e8693aa596cf75bfa79060a08c8f99a9b387e781ac8b2ac58942cec9725ed219"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "75fbd8a1dad03dc8b5999ce92bcfbedbf1e977bb4ee25db44bc2441aab3d437e"
 metafile = true
 
 [[files]]
